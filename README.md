@@ -50,7 +50,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone [https://github.com/](https://github.com/)<your-username>/feature-selection-selective-prediction.git
+git clone [https://github.com/](https://github.com/)Rasputinka05/feature-selection-selective-prediction.git
 cd feature-selection-selective-prediction
 
 # Установка зависимостей
