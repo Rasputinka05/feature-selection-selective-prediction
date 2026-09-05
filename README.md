@@ -1,4 +1,3 @@
-<img width="987" height="486" alt="selective_prediction_curve" src="https://github.com/user-attachments/assets/5691653f-e827-4f4e-82c1-6ac2880feb94" />
 # Empirical Evaluation of Feature Selection Stability & Selective Prediction Framework
 
 Исследование влияния методов отбора признаков (Feature Selection) на стабильность валидационной метрики и разработка фреймворка выборочного прогнозирования (Selective Prediction / Abstention) для управления рисками инференса в архитектурах Human-in-the-Loop.
